@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.ntpintpigamesetup",                              
+  "displayName": "Ntp Int Pi Quest3 Game Setup",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "You package description",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2025_01_11_NtpIntPiQuest3GameSetup.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
